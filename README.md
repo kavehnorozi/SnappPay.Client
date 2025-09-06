@@ -3,7 +3,7 @@
 A .NET client library for integrating with **SnappPay** payment gateway.
 
 -   GitHub Repository:
-    [SnappPay.Client](https://github.com/kavehnorouzi/SnappPay.Client)
+    [SnappPay.Client](https://github.com/kavehnorozi/SnappPay.Client)
 -   Project Page: [webecco.com/snapppay](https://webecco.com/snapppay)
 
 ------------------------------------------------------------------------
@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the
 کتابخانه‌ی دات‌نت برای اتصال به درگاه پرداخت **SnappPay**
 
 -   ریپازیتوری گیت‌هاب:
-    [SnappPay.Client](https://github.com/kavehnorouzi/SnappPay.Client)
+    [SnappPay.Client](https://github.com/kavehnorozi/SnappPay.Client)
 -   صفحه معرفی پروژه:
     [webecco.com/snapppay](https://webecco.com/snapppay)
 
