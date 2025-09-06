@@ -168,7 +168,7 @@ var paymentTokenResponse = await service.GetPaymentTokenAsync(token, new Payment
 ## 👨‍💻 سازنده
 
 **کاوه نوروزی**\
-📱 +98 912 342 0138\
+📱 +989123420138\
 🌐 [webecco.com/snapppay](https://webecco.com/snapppay)
 
 ------------------------------------------------------------------------
